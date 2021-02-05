@@ -1,0 +1,14 @@
+Package: supercronic
+Version: 0.1.12-1
+Architecture: amd64
+Maintainer: Robert Pritzkow <robert.pritzkow@aboutsource.net>
+Vcs-Git: https://github.com/aptible/supercronic.git
+Priority: optional
+Section: base
+Filename: pool/main/s/supercronic/supercronic_0.1.12-1_amd64.deb
+Size: 6319058
+SHA256: b610fe37e5848e9efe85ddbde4aa68bd0f2273f6c318155d3750511449cc7bfd
+SHA1: e680a5dccda465f1a47844c764bfd733320fc3ab
+MD5sum: 5453e85ad9623f3b966ba894a62aeb57
+Description: Supercronic is a crontab-compatible job runner, designed specifically to run in containers.
+

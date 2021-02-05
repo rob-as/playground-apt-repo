@@ -1,0 +1,38 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Origin: rob-as.github.io/playground-apt-repo
+Label: rob-as.github.io/playground-apt-repo
+Codename: bionic
+Date: Fri, 05 Feb 2021 10:25:20 UTC
+Architectures: amd64
+Components: main
+Description: Personal repository
+MD5Sum:
+ cedc784b16a750d9042eb1b9e605d8dd 552 main/binary-amd64/Packages
+ ae686fd6b393dd0f2bbb7bdf674e1483 396 main/binary-amd64/Packages.gz
+ 3c8b6e8052182b59389ddafa5cc5e4ca 158 main/binary-amd64/Release
+SHA1:
+ 5fa8857076ee0ba0e8ddf1fbc76209dd8fd8d7ec 552 main/binary-amd64/Packages
+ ce2466ac86566e0e77781a6702bce620cd3a2088 396 main/binary-amd64/Packages.gz
+ 7a69333380e37c3cecebf9f70a90cee94549d5e3 158 main/binary-amd64/Release
+SHA256:
+ 7416046a176be9f9b04e4264aa94a01d37d19d1db35dc8c188078ccda4fdbf90 552 main/binary-amd64/Packages
+ 3ed11ca4f563083ee252868c6fc578b992e2bd842499f7dd741234d4ede7660b 396 main/binary-amd64/Packages.gz
+ f5038b639062cf8e2c8630dbb8e846f8486e6d4d8d4d8ef2d98d91231e7cbc21 158 main/binary-amd64/Release
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEBJfeh7/5qEtNjBkEjnG80ip8VykFAmAdHREACgkQjnG80ip8
+VykQog/+MCLaDE8ljx9jimiBapIavAZVqudfDe/9FLUEYSYxZs9/8NZfH840PQFJ
+9Hs9SWct3Aov+6wjfIXyFeepLMbOm03jVc+pDB5+n4SW9RyZRNJT6PrjOZlCtW+Y
+jdBeCWkGhkF4NiVrsR4mV1Rc7tZqGDSd2B1ZM1P5E9iYyDnutEeFIJyaCHhiLidp
+fFDuvJHK4QYfasbaVdEHyOZUxV+SFm0FgiNf8AO0cR476ixkGn07OPpUGkGDx/Kx
+RGbgtbffwGIVS/UsnI4QpxDciwZtMvFTlQs+uxw7TlqcP+FW7ReXPSGZdKIkJ5qk
+Jwfe2updGElzvWoq1lRU1+nHc/W69tx9GEiQybUktmEkkvDnaGxMRMkCRh1URkAw
+guGQlvtZz+K5u8NMQcipDZLb2V6ESx0MNYQvzCVDK9lPTn7ILqzqufZ3Zw2+EQs0
+A5qrPUbXEl2WQyTLMgXRh+xfg7wgXJ/QHC3YqIH+CHPLVMJOIRZ2AVvl8IJZxlYE
+TFDSoc6hhGSVMlwEpZ1lWKS1yrupZgBPoeMHcfCuz24/WQmvRDRcqpfrMP5WKR7n
+5wKqdztXxS5gWTiNNIiwXqAdEYEbwol7vNbv5ndO12pvUsnqd123HgFgYVqBZrGd
+ZXsVcI+uRXljKZmD0Fx/VglQiyjFdAiiqq1l+vpEtDYYepgcJxI=
+=jD1b
+-----END PGP SIGNATURE-----

@@ -1,0 +1,5 @@
+Component: main
+Origin: rob-as.github.io/playground-apt-repo
+Label: rob-as.github.io/playground-apt-repo
+Architecture: amd64
+Description: Personal repository
